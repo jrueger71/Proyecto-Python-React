@@ -11,13 +11,7 @@ import { getStorage, ref, uploadBytes, getDownloadURL, deleteObject } from 'fire
 // Se usa la configuración que proporcionaste directamente.
 // =================================================================================
 const firebaseConfig = {
-   apiKey: "AIzaSyC7zJ6jb9FYIUVfNzLVPp43TFNb11KDPqw",
-   authDomain: "agencia-futbol.firebaseapp.com",
-   projectId: "agencia-futbol",
-   storageBucket: "agencia-futbol.firebasestorage.app",
-   messagingSenderId: "541080953122",
-   appId: "1:541080953122:web:ddb16c0083768d4c4c057b",
-   measurementId: "G-VE70EW7FDC"
+   
 };
 
 // No modifiques estas variables. Se proporcionan desde el entorno.
