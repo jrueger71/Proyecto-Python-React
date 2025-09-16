@@ -1,0 +1,10 @@
+# Ignorar carpetas de Node (React)
+/node_modules
+
+# Ignorar carpetas de entorno virtual de Python
+/venv
+/env
+
+# Ignorar archivos temporales y de configuración
+.DS_Store
+.vscode/
